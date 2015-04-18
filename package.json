@@ -1,0 +1,29 @@
+{
+  "name": "data-vis-d3",
+  "version": "1.0.0",
+  "description": "These code examples accompany the course “Data Visualization and Infographics with D3,” taught by [Alberto Cairo](http://thefunctionalart.com/) and [Scott Murray](http://alignedleft.com/), and offered through the [Knight Center for Journalism in the Americas](http://open.journalismcourses.org) at UT Austin.",
+  "main": "d3.v3.js",
+  "dependencies": {
+    "gulp-livereload": "^3.8.0",
+    "http-server": "^0.8.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-connect": "^2.2.0",
+    "gulp-less": "^3.0.2",
+    "gulp-livereload": "^3.8.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/micahstubbs/data-vis-d3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/micahstubbs/data-vis-d3/issues"
+  },
+  "homepage": "https://github.com/micahstubbs/data-vis-d3"
+}
